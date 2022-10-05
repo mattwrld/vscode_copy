@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>woodstock 1969</title>
+        <link rel="stylesheet" href="vendenunca.css">
+    </head>
+    <body>
+        <div id="container">
+        <h1> 1969</h1>
+        <form name="formulario da biografia">
+             <fieldset>
+    <legend> Dados pessoais:</legend>
+    <table>
+        <label for="first name"> Teu nome</label>: <input type="text" name="first name" id="first name" placeholder="insira seu nome aqui"/>
+<br/>
+      <label for="last name"> Teu sobrenome</label> <input type="text" name="last name" id="last name" placeholder="insira seu nome aqui"/>
+     <br/>
+      <label for="email">Teu email</label> <input type="email" name="email" id="email" placeholder="insira seu email aqui">
+   </form>
+  </fieldset>
+</table>
+   <p> qual sua cor favorita?</p>
+   <input type="radio" id="roxo" name="cor favorita" value="roxo"/>
+   <label for="roxo"> roxo</label><br/>
+   <input type="radio"  id="vermelho" name="cor favorita" value="vermelho"/>
+   <label for="vermelho">vermelho</label><br/>
+   <input type="radio" id="verde" name="cor favorita" value="verde"/>
+   <label for="verde">verde</label><br/>
+
+   <p>com quantos anos voce pensou em mudar de vida</p>
+   <input type="checkbox" id="nunca pensei em mudar" name="escolha1" value="escolha">
+   <label for="escolha">nunca pensei em mudar</label><br/>
+   <br>
+   <label for="time"> Teu time:</label>
+   <select name="time" id="time">
+    <option value="#"selected> teu time</option>
+    <option value="inter de milão">inter de milão </option>
+    <option value="barcelona">barcelona</option>
+    <option value disabled="real madrid">real madrid</option>
+    <option value="chealsea">chelsea</option></select>
+</br>
+   
+     <input type="reset">
+</div>
+ </body>
+
+</html>
