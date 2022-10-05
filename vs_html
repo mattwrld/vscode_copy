@@ -1,0 +1,35 @@
+<!doctype html> 
+<html>
+    <head>
+        <title> woodstock</title>
+        <link rel="stylesheet" href="vendenunca.css">
+    </head>
+    <body>
+        
+        <h1>O que foi o woodstock?</h1>
+    </div>    <p>O Festival de <span>Woodstock</span> foi um evento musical realizado em Bethel, pequena cidade do estado de New York, nos Estados Unidos. Esse festival de rock foi idealizado por quatro jovens que queriam investir seu dinheiro em um grande evento. O festival tornou-se um símbolo da contracultura e atraiu cerca de 500 mil pessoas. </p>
+  <div id="container"> 
+    <img title="floreio" alt="floreio" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/08/bethel-woods.jpg" width="500px">
+  </div><p class="sublinhado"> O Festival de <strong>Woodstock</strong>contou com a participação de dezenas de bandas de rock e apresentou nomes de sucesso, como Janis Joplin e Jimi Hendrix. Ao longo de três dias, o rock embalou jovens influenciados pelo movimento hippie, que defendia o amor, a liberdade e a paz. Outras versões do evento foram realizadas na década de 1990, mas não tiveram o mesmo sucesso.</p>
+<h2>Datas que ocorreram</h2>
+<span>iniciou</span>
+<ul id="none">
+   <li> data que iniciou</li>
+   <li>ano em que foi um desastre</li>
+   <li>10 anos depois do desastre</li>
+   <li>protesto feminista</li>
+   <li>ano em que as pessoas se cansaram</li>
+
+</ul>
+<div id="areamenu">
+  <ul id="menu">
+    <li><a href="1969.html">1969</a></li>
+    <li>1999</li>
+    <li>2010</li>
+    <li>2019</li>
+    <li>2022</li>
+</ul>  
+
+</div>
+</body>
+</html>
